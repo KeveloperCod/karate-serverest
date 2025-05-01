@@ -5,7 +5,7 @@ Este proyecto contiene pruebas automatizadas usando Karate DSL para la API de Se
 
 -----------------
 
-🚀 Requisitos Previos
+ Requisitos Previos
 
     Java 11 o superior
 
@@ -16,7 +16,7 @@ Este proyecto contiene pruebas automatizadas usando Karate DSL para la API de Se
 
 -----------------
 
-📂 Estructura del Proyecto
+ Estructura del Proyecto
 
 src/test/java
 
@@ -28,7 +28,7 @@ src/test/java
 
 -----------------
 
-🔧 Instalación
+ Instalación
 
     git clone https://github.com/KeveloperCod/karate-serverest.git
     cd karate-serverest
@@ -36,7 +36,7 @@ src/test/java
 
 -----------------
 
-🔪 Ejecutar pruebas
+ Ejecutar pruebas
 
 Ejecutar todo
 
@@ -49,7 +49,7 @@ Ejecutar test puntual
 
 -----------------
 
-🔒 Helpers
+ Helpers
 
 El archivo utils.feature genera usuarios aleatorios para pruebas:
 
@@ -60,7 +60,7 @@ El archivo utils.feature genera usuarios aleatorios para pruebas:
 -----------------
 
 
-🔄 Validaciones de esquema JSON
+ Validaciones de esquema JSON
 
 Ubicadas en schema/usuarios-schema.json, se integran a las pruebas con:
 
@@ -69,7 +69,7 @@ Ubicadas en schema/usuarios-schema.json, se integran a las pruebas con:
 
 -----------------
 
-🚜 Escenarios Cubiertos
+ Escenarios Cubiertos
 
 Casos positivos:
 
@@ -96,7 +96,7 @@ Casos negativos:
 
 -----------------
 
-💾 Reportes
+ Reportes
 
 Se generan automáticamente al ejecutar las pruebas:
 
@@ -104,7 +104,7 @@ Se generan automáticamente al ejecutar las pruebas:
 
 -----------------
 
-📃 Licencia
+ Licencia
 
     MIT
 
