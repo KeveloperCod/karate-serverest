@@ -1,0 +1,21 @@
+# IntelliJ / Eclipse / VSCode
+.idea/
+*.iml
+*.classpath
+*.project
+*.settings/
+.vscode/
+
+# Maven
+target/
+logs/
+*.log
+!.mvn/wrapper/maven-wrapper.jar
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Karate
+karate-reports/
+karate-output/
