@@ -18,7 +18,7 @@ Este proyecto contiene pruebas automatizadas usando Karate DSL para la API de Se
 
 📂 Estructura del Proyecto
 
-src/test/java/examples
+src/test/java
 
     🔹 examples/
     🔹🔹 users/         # Archivos .feature (GET, POST, PUT, DELETE)
